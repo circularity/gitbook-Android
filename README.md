@@ -100,6 +100,8 @@ _**facebook\_app\_id需在res目录下 string文件中声明，具体请参考st
 
 ### **替换AdManager中广告id**
 
+替换数组中的广告id按照Top-High.....Auto顺序填写
+
 ![&#x56FE;3](.gitbook/assets/image%20%282%29.png)
 
 ```java
